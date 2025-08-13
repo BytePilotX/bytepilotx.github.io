@@ -1,7 +1,7 @@
 ## A little bit about me:
 Hi there!
 
-My name is jonathan and you guessed it, I love to code! Sooooo here is a little about me:
+My name is Jonathan and you guessed it, I love to code! Sooooo here is a little about me:
 
 - I love to code -> languageList = {"Java", "Python", "and Lua!"}
   
