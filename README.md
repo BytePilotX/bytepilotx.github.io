@@ -11,7 +11,7 @@ My name is jonathan and you guessed it, I love to code! Sooooo here is a little 
   
 - Im British :D
   
-- You should defo check out my repos btw: https://github.com/BytePilotX?tab=repositories
+- You should defo check out [my github repos :D](https://github.com/BytePilotX?tab=repositories)
 
 Il make a custom theme for this site soon as im currently learning HTML+CSS and JS sooo lets hope and prey 
 
