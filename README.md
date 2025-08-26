@@ -13,6 +13,8 @@ My name is Jonathan and you guessed it, I love to code! Sooooo here is a little 
   
 - You should defo check out [my github repos](https://github.com/BytePilotX?tab=repositories)
 
+- And while your here xD you should check out my [progress server on discord](https://discord.gg/NujYaBUsdC)
+
 Il make a custom theme for this site soon as im currently learning HTML+CSS and JS sooo lets hope and prey 
 
 ## Future Aspirations?
